@@ -1,8 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/Es_CQTAoQxEAAAAC/troll-get-trolled.gif" width="100"/>
+  <img style="height: 500px; width: 800px;" src="https://media.tenor.com/Es_CQTAoQxEAAAAC/troll-get-trolled.gif"/>
 </div>
-
-### Hi there 👋
 
 <!--
 **RickVeltrop/RickVeltrop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
