@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://tenor.com/view/troll-get-trolled-we-do-a-little-trolling-gif-20266975" width="100"/>
+  <img src="https://media.tenor.com/Es_CQTAoQxEAAAAC/troll-get-trolled.gif" width="100"/>
 </div>
 
 ### Hi there 👋
