@@ -1,6 +1,11 @@
-<div id="header" align="center">
-  <img style="height: 500px; width: 800px;" src="https://media.tenor.com/Es_CQTAoQxEAAAAC/troll-get-trolled.gif"/>
+<div id="header_gif" align="center">
+  <img style="height: 250px; width: 400px;" src="https://media.tenor.com/Es_CQTAoQxEAAAAC/troll-get-trolled.gif"/>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RickVeltrop&show_icons=true&locale=en&layout=compact" alt="RickVeltrop_MostUsed" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RickVeltrop&show_icons=true&locale=en" alt="RickVeltrop_Icons" />
+ <div/>
 
 <!--
 **RickVeltrop/RickVeltrop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
