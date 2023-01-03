@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://tenor.com/view/troll-get-trolled-we-do-a-little-trolling-gif-20266975" width="100"/>
 </div>
 
 ### Hi there 👋
